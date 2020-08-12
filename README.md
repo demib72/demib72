@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hello, I am Michael.
+## About myself
+I am a student of programming looking to contribute to the greater data science and web development communities someday. 
 
-- 🌱 I’m currently learning REACT.JS and Django
+##Goals for 2020
+I want to continue to master my fundamentals with javascript and python via React.JS and Django. Looking to develop and finish a web app by the end of the year. 
+
+##Would love to network with other programmers of all skill levels.
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demib72)](https://github.com/anuraghazra/github-readme-stats)
