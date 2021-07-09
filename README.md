@@ -1,7 +1,7 @@
 ### Hello, I am Michael. I am a student of programming looking to contribute to the greater data science and web development communities someday.
 
-### Goals for 2020
-I want to continue to master my fundamentals with javascript and python via React.JS and Django. Looking to develop and finish a web app by the end of the year.
+### Goals for 2021
+I want to continu to master my fundamentals with javascript and python via React.JS and Django. Looking to develop and finish a web app by the end of the year.
 - 🔭 I’m currently working on a personal django blog
 - 🌱 I’m currently learning React.JS and Django REST API
 
